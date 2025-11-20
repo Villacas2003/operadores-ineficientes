@@ -8,9 +8,9 @@ El código realiza un pipeline completo: limpieza de datos, métricas clave, ran
 ## 📂 Estructura del proyecto
 
 operadores-ineficientes/
-├── sprint_14_proyecto_final_encontrar_operadores_ineficientes.ipynb # Pipeline completo en Python
-├── presentacion_resultados_operadores.pdf # Resultados y storytelling
-└── README.md # Documentación del proyecto
+├── sprint_14_proyecto_final_encontrar_operadores_ineficientes.ipynb #Pipeline completo en Python
+├── presentacion_resultados_operadores.pdf #Resultados y storytelling
+└── README.md #Documentación del proyecto
 
 
 ---
